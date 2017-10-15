@@ -1,7 +1,7 @@
 # NEWS-App
 Android app which displays NEWS articles (along with some additional info as mentioned below) from the Guardian API, and lets the user search for NEWS matching specific keyword(s).
 
-Android app which displays the latest 10 articles on The Guardian API by default and takes in user's search query and displays a list of articles matching the same. 
+This app displays the latest 10 articles on The Guardian API by default and takes in user's search query and displays a list of articles matching the same. 
 
 This App uses the The Guardian API to display the list of NEWS matching the user's search keywords.
 
