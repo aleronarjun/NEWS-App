@@ -3,11 +3,11 @@ Android app which displays NEWS articles (along with some additional info as men
 
 This app displays the latest 10 articles on The Guardian API by default and takes in user's search query and displays a list of articles matching the same. 
 
-This App uses the The Guardian API to display the list of NEWS matching the user's search keywords.
+The Guardian API is used to display the list of NEWS matching the user's search keywords.
 
 The article name is dispayed along with the author(s)'s name(s), publishing date, the section which the article belongs to and a thumbnail.
 
-When the user clicks on a specific article, the link to the article on tThe Guardian's website is opened in a browser.
+When the user clicks on a specific article, the link to the article on The Guardian's website is opened in a browser.
 
 # UI/UX tweaks have been made like:
   1. Handling device rotation.
